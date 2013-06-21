@@ -1,0 +1,3 @@
+# Example for a /etc/puppet/rossum.yaml ENC definition
+classes:
+parameters:
