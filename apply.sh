@@ -11,7 +11,7 @@ abspath() {
 }
 apply() {
     puppet apply --node_terminus exec --external_nodes "$self" \
-        --modulepath $base/puppet/modules $base/puppet/manifests/site.pp
+        --modulepath $base/modules $base/manifests/site.pp
 }
 
 

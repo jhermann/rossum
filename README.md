@@ -13,3 +13,9 @@ by default using `/etc/puppet/rossum.yaml` as the ENC configuration file.
 Alternatively, you can provide the ENC file on the command line, 
 e.g. `./apply.sh examples/rossum.yaml`.
 
+
+## Platforms
+These manifests are known to work on:
+
+* Ubuntu 12.04.2 LTS amd64
+

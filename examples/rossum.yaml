@@ -1,3 +1,6 @@
 # Example for a /etc/puppet/rossum.yaml ENC definition
 classes:
+    python:
+    python::yolk:
 parameters:
+    #http_proxy: ...
