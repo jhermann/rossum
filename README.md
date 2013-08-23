@@ -1,7 +1,7 @@
+![Logo](https://raw.github.com/jhermann/rossum/master/assets/puppet_library_med.png)
 # rossum
 
 My collection of Puppet recipes. It's a dollhouse.
-
 
 ## Usage
 
