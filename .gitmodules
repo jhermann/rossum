@@ -1,0 +1,3 @@
+[submodule "modules/devpi"]
+	path = modules/devpi
+	url = https://github.com/jhermann/devpi-puppet.git
